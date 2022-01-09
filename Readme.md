@@ -14,7 +14,7 @@ An online Healthcare platform providing safe access to top-the-line services as 
 
 3.Medical Record log
 
-4.Covid Vaccine Tracker
+4.Live-Time Covid Vaccine Tracker
 
 5.Booking Appointment
 
