@@ -5,7 +5,7 @@
 </div>
 
 ## Project-info
-We propose a new platform for user modeling with blockchains that allows users to share data without losing control and ownership of it.
+An online Healthcare platform providing safe access to top-the-line services as covid vaccine tracking ,booking appointments, medical record log and biomedicine purchase, inspired by Blockchain and Web3-net.
 
 ## Services Provided
 1.Medicine Tracker
