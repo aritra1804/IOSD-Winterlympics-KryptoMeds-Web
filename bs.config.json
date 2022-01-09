@@ -1,0 +1,12 @@
+{
+    "server": {
+        "baseDir": [
+            "./assets",
+            "./contracts",
+            "index.html"
+        ],
+        "routes": {
+            "/vendor": "./node_modules"
+        }
+    }
+}
