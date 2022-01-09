@@ -21,4 +21,6 @@ An online Healthcare platform providing safe access to top-the-line services as 
 6.Invoices and ETH transactions
 
 ## Why KryptoMeds?
-Team Gucci Coders is here to provide secure and authentic information to it's users at all stages by the use of KyrptoMeds, our very own Dapp and to ensure a seamless experience for verifying and maintaining data regarding all pharmaceutical products.
+Team Gucci Coders is here to provide secure and authentic information to it's users at all stages by the use of KyrptoMeds, our very own Dapp(Kryptomeds) and to ensure a seamless experience for verifying and maintaining data regarding all pharmaceutical products.
+
+
